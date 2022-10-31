@@ -1,7 +1,7 @@
 <html>   
 <head>  
 <meta name="viewport" content="width=device-width, initial-scale=1">  
-<title> Login Page </title>  
+<title> Login Page Website </title>  
 <style>   
 Body {  
   font-family: Calibri, Helvetica, sans-serif;  
@@ -44,7 +44,7 @@ button {
 </style>   
 </head>    
 <body>    
-    <center> <h1> Student Login Form </h1> </center>   
+    <center> <h1> College Login Form </h1> </center>   
     <form>  
         <div class="container">   
             <label>Username : </label>   
